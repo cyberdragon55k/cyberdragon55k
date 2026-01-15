@@ -6,9 +6,10 @@
 ![](https://github-readme-stats.vercel.app/api?username=cyberdragon55k&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=cyberdragon55k&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberdragon55k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=nord)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=cyberdragon55k&theme=dracula&no-frame=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=cyberdragon55k&theme=radical&rank=SSS,SS,S,AAA,AA,A,B,C)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
