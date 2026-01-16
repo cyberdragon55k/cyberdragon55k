@@ -8,13 +8,12 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberdragon55k&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![](https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=nord)
 
+![Visitor Count](https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=cyberdragon55k&countColor=%23263759)
 
 
 
