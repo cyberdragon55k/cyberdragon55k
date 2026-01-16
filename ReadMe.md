@@ -13,7 +13,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20Views)
+![Visitor Count](https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=cyberdragon55k&countColor=%23263759)
 
 
 
