@@ -19,8 +19,13 @@
   <br/>
 </div>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Machine%20Learning%20%26%20NLP-2196F3?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Open%20for%20Collaboration-4CAF50?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
 <div data-importer="socials" align="center">
-<a href="https://adityanamdeo.qzz.io/" target="_blank">
+  <a href="https://adityanamdeo.qzz.io/" target="_blank">
     <img src="https://img.shields.io/badge/Website-Portfolio-2196F3?style=plastic" height="25" alt="portfolio logo" />
   </a>
   <a href="https://www.linkedin.com/in/adityanamdeo/" target="_blank">
@@ -37,6 +42,11 @@
 ---
 
 <h3 align="center">💻 Tech Stack</h3>
+<p align="center">
+  <b>Languages:</b> Python, C++, C, Kotlin<br/>
+  <b>AI & Data:</b> TensorFlow, PyTorch, Pandas, NumPy, Scikit-Learn<br/>
+  <b>Tools & Infra:</b> Docker, Kubernetes, Google Cloud, Linux, Git
+</p>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
