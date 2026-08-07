@@ -66,14 +66,15 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=cyberdragon55k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=nord" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cyberdragon55k&theme=dark" width="45%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cyberdragon55k&theme=dark" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=cyberdragon55k&theme=dark&hide_border=false" />
@@ -81,15 +82,7 @@
   <img src="https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views" />
 </p>
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=cyberdragon55k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+
 
 
 ---
-
-<h3 align="center">✍️ Random Dev Quote</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
