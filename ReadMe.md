@@ -12,14 +12,17 @@
   🤖 <b>AI/ML Developer</b> | 🎓 Computer Science Engineering | 💻<br/> 
   🔭 <b>Specializing in:</b> Python, C++, and robust Object-Oriented Programming
   <br/>
-  🌱 <b>Currently building:</b> Data-driven automation systems, scalable NLP pipelines, and local AI audits
+  🌱 <b>Currently building:</b> Data-driven automation systems and scalable NLP data pipelines
   <br/>
-  ⚡ <b>Always exploring:</b> Custom Android 16 ROMs, headless Raspberry Pi 3 servers, and Blender 3D animation
+  ⚡ <b>Always exploring:</b> Next-generation ML architectures and backend server integrations
   <br/>
   <br/>
 </div>
 
 <div data-importer="socials" align="center">
+  <a href="https://adityanamdeo.qzz.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&label=🌐&color=2196F3&logoColor=white&labelColor=&style=plastic" height="25" alt="portfolio logo" />
+  </a>
   <a href="https://www.linkedin.com/in/adityanamdeo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
@@ -102,13 +105,6 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=cyberdragon55k" alt="GitHub Trophies" />
-</p>
-
----
-
 <h3 align="center">📊 GitHub Stats</h3>
 
 <picture>
@@ -117,7 +113,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/output/snake.svg">
 </picture>
 
----
 <div data-importer="stats" align="center"> 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberdragon55k&theme=dracula&hide_border=false" height="150" alt="streak graph" />
@@ -126,6 +121,14 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=dracula&area=true" alt="activity-graph graph" />
   </p>
 </div>
+
+---
+
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=cyberdragon55k" alt="GitHub Trophies" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views" />
 </p>
