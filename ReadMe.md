@@ -60,11 +60,11 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cyberdragon55k&theme=dark" />
-</p>
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=nord" />
@@ -81,11 +81,11 @@
   <img src="https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views" />
 </p>
 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=cyberdragon55k&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
-<h3 align="center">🧠 LeetCode Progress</h3>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/adityanamdev?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</p>
 
 ---
 
