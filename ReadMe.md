@@ -7,14 +7,20 @@
   </a>
 </div>>
 
-🤖 **AI/ML Developer** | 🎓 Computer Science Engineering | 💻<br/> 
+</div>
+
+<div align="center">
+
+  🤖 **AI/ML Developer** | 🎓 Computer Science Engineering | 💻<br/> 
   🔭 **Specializing in:** Python, C++, and robust Object-Oriented Programming
   <br/>
   🌱 **Currently building:** Data-driven automation systems and scalable NLP data pipelines
   <br/>
   ⚡ **Always exploring:** Next-generation ML architectures and backend server integrations
   <br/>
+  <br/>
 
+</div>
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/adityanamdeo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
@@ -66,6 +72,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/output/snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/output/snake.svg">
 </picture>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views" />
