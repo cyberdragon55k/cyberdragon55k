@@ -1,14 +1,14 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Aditya%20Namdev&fontSize=70&fontAlignY=35&desc=Machine%20Learning%20%7C%20Python%20Developer&descAlignY=55&descSize=20" />
 </p>
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aditya+Namdeo;Publishing+Name:+Aditya+Namdev;Alias:+CyberDragon55K" alt="Identity Typing SVG" />
   </a>
-</div>>
+</div>
 
 <div align="center">
-
   🤖 **AI/ML Developer** | 🎓 Computer Science Engineering | 💻<br/> 
   🔭 **Specializing in:** Python, C++, and robust Object-Oriented Programming
   <br/>
