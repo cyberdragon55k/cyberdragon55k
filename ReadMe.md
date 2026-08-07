@@ -79,3 +79,11 @@
 </p>
 
 ---
+<div data-importer="stats" align="center"> 
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberdragon55k&theme=dracula&hide_border=false" height="150" alt="streak graph" />
+  </p>
+  <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=dracula&area=true" alt="activity-graph graph" />
+  </p>
+</div>
