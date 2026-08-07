@@ -20,8 +20,8 @@
 </div>
 
 <div data-importer="socials" align="center">
-  <a href="https://adityanamdeo.qzz.io/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&label=🌐&color=2196F3&logoColor=white&labelColor=&style=plastic" height="25" alt="portfolio logo" />
+<a href="https://adityanamdeo.qzz.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-Portfolio-2196F3?style=plastic" height="25" alt="portfolio logo" />
   </a>
   <a href="https://www.linkedin.com/in/adityanamdeo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
