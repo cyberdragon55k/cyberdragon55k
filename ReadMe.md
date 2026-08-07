@@ -7,8 +7,6 @@
   </a>
 </div>>
 
-</div>
-
 <div align="center">
 
   🤖 **AI/ML Developer** | 🎓 Computer Science Engineering | 💻<br/> 
@@ -16,7 +14,7 @@
   <br/>
   🌱 **Currently building:** Data-driven automation systems and scalable NLP data pipelines
   <br/>
-  ⚡ **Always exploring:** Next-generation ML architectures and backend server integrations
+  ⚡ **Always exploring:** Custom ROMs Next-generation ML architectures and backend server integrations
   <br/>
   <br/>
 
