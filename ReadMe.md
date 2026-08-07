@@ -1,26 +1,18 @@
-<div align="center">
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Aditya+Namdeo" alt="Typing SVG" />
-</a>
-
-*(Publishing name: Aditya Namdev)*
-</div>
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Aditya%20Namdev&fontSize=70&fontAlignY=35&desc=Machine%20Learning%20%7C%20Python%20Developer&descAlignY=55&descSize=20" />
+</p>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Hi,+I'm+Cyberdragon;Python+Developer;AI%2FML+Enthusiast;Decide.+Commit.+Succeed." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Aditya+Namdeo;Publishing+Name:+Aditya+Namdev;Alias:+CyberDragon55K" alt="Identity Typing SVG" />
   </a>
+</div>>
 
+🤖 **AI/ML Developer** | 🎓 Computer Science Engineering | 💻<br/> 
+  🔭 **Specializing in:** Python, C++, and robust Object-Oriented Programming
   <br/>
-
-  🔭 Python & Kotlin Developer | 💻<br/> 
-  🌱 I’m currently learning: Machine Learning workflows
+  🌱 **Currently building:** Data-driven automation systems and scalable NLP data pipelines
   <br/>
-  👯 I’m looking to collaborate on **Open Source AI Projects**
-  <br/>
-  ⚡Always exploring **New Technologies**
-  <br/>
-
+  ⚡ **Always exploring:** Next-generation ML architectures and backend server integrations
   <br/>
 
 <div data-importer="socials" align="center">
@@ -60,25 +52,23 @@
 
 ---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/pacman-output/pacman-contribution-graph.svg?game=pacman">
+<h3 align="center">🏆 GitHub Trophies</h3>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=cyberdragon55k" alt="GitHub Trophies" />
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/output/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/output/snake.svg">
 </picture>
 
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=nord" />
-</p>
-
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=cyberdragon55k&theme=dark&hide_border=false" />
-  <br/>
   <img src="https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views" />
 </p>
-
-
-
 
 ---
