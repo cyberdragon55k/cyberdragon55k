@@ -23,16 +23,16 @@
 
   <br/>
 
-  <a href="https://instagram.com/cyberdragon55k">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"/>
+<div data-importer="socials" align="center">
+  <a href="https://www.linkedin.com/in/adityanamdeo/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://linkedin.com/in/adityanamdeo">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://x.com/cyberdragon55k" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=plastic" height="25" alt="twitter logo"  />
   </a>
-  <a href="https://x.com/cyberdragon55k">
-    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" alt="X"/>
+  <a href="https://www.instagram.com/cyberdragon55k" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="25" alt="instagram logo"  />
   </a>
-
 </div>
 
 ---
