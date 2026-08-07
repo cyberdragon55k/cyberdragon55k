@@ -9,16 +9,16 @@
 </div>
 
 <div align="center">
-  🤖 **AI/ML Developer** | 🎓 Computer Science Engineering | 💻<br/> 
-  🔭 **Specializing in:** Python, C++, and robust Object-Oriented Programming
+  🤖 <b>AI/ML Developer</b> | 🎓 Computer Science Engineering | 💻<br/> 
+  🔭 <b>Specializing in:</b> Python, C++, and robust Object-Oriented Programming
   <br/>
-  🌱 **Currently building:** Data-driven automation systems and scalable NLP data pipelines
+  🌱 <b>Currently building:</b> Data-driven automation systems, scalable NLP pipelines, and local AI audits
   <br/>
-  ⚡ **Always exploring:** Custom ROMs Next-generation ML architectures and backend server integrations
+  ⚡ <b>Always exploring:</b> Custom Android 16 ROMs, headless Raspberry Pi 3 servers, and Blender 3D animation
   <br/>
   <br/>
-
 </div>
+
 <div data-importer="socials" align="center">
   <a href="https://www.linkedin.com/in/adityanamdeo/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
@@ -71,11 +71,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/cyberdragon55k/cyberdragon55k/output/snake.svg">
 </picture>
 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views" />
-</p>
-
 ---
 <div data-importer="stats" align="center"> 
   <p align="center">
@@ -85,3 +80,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=dracula&area=true" alt="activity-graph graph" />
   </p>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cyberdragon55k&label=Profile%20Views" />
+</p>
