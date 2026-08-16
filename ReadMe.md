@@ -128,6 +128,9 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cyberdragon55k&theme=dracula&hide_border=false" height="150" alt="streak graph" />
   </p>
   <p align="center">
+    <img src="[https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=dracula&area=true](https://www.gitskins.com/api/section/heatmap?username=cyberdragon55k&theme=github-dark&style=aura&avatar=https%3A%2F%2Fwww.gitskins.com%2Fapi%2Favatar%3Fusername%3Dcyberdragon55k%26theme%3Dgithub-dark%26family%3Doriginal%26originalVariant%3D1)" alt="activity-graph graph" />
+  </p>
+  <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=dracula&area=true" alt="activity-graph graph" />
   </p>
 </div>
