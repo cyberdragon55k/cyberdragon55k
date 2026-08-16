@@ -130,6 +130,9 @@
   <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=cyberdragon55k&theme=dracula&area=true" alt="activity-graph graph" />
   </p>
+  <p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=cyberdragon55k&theme=github-dark&style=aura" alt="GitHub Heatmap" />
+</p>
 </div>
 
 ---
